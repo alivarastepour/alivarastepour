@@ -9,7 +9,7 @@
   </div>
   <div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alivarastepour&count_private=true&langs_count=3&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alivarastepour&count_private=true&langs_count=10&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
       
   </div>  
 </div>
